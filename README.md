@@ -3,7 +3,7 @@
 # PROYECTO DE LIBRERIA CON CONEXION A BASE DE DATOS 
 
 ## DESCRIPCION 
-
+Es una molitica, mve y dao
 
 
 ## ESTRUCTURA DEL PROYECTO 
@@ -19,6 +19,10 @@ LibreriaConsolaApp
         |--- view
             |--- MenuPrincipal.java
             |--- CategoriaView.java
+        |--- util
+            |--- Conexion.java
+        
+
 
 
 ##Autor 
